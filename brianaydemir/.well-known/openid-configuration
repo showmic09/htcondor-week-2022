@@ -1,4 +1,4 @@
 {  
-    "issuer": "https://sciauth.org/htcondor-week-2022/brianaydemir",
-    "jwks_uri": "https://sciauth.org/htcondor-week-2022/brianaydemir/oauth2/keys",
+    "issuer": "https://raw.githubusercontent.com/SciAuth/htcondor-week-2022/main/brianaydemir",
+    "jwks_uri": "https://raw.githubusercontent.com/SciAuth/htcondor-week-2022/main/brianaydemir/oauth2/keys",
 }
