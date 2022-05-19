@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://sciauth.org/htcondor-week-2022/jbasney",
+    "jwks_uri":"https://sciauth.org/htcondor-week-2022/jbasney/oauth2/keys"
+}
