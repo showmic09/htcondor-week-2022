@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://sciauth.org/htcondor-week-2022/bbockelm",
+    "jwks_uri":"https://sciauth.org/htcondor-week-2022/bbockelm/oauth2/keys"
+}
