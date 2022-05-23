@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://sciauth.org/htcondor-week-2022/matyasselmeci",
+    "jwks_uri":"https://sciauth.org/htcondor-week-2022/matyasselmeci/oauth2/keys"
+}
