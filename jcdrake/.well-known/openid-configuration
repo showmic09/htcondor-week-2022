@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://sciauth.org/htcondor-week-2022/username",
+    "jwks_uri":"https://sciauth.org/htcondor-week-2022/username/oauth2/keys"
+}
